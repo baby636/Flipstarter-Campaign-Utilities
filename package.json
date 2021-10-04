@@ -11,7 +11,7 @@
   "sideEffects": false,
   "dependencies": {
     "@bitcoin-dot-com/bitcoincashjs2-lib": "^4.1.0",
-    "async-mutex": "^0.2.6",
+    "async-mutex": "^0.3.2",
     "bitbox-sdk": "^8.11.2",
     "error": "^10.4.0",
     "moment": "^2.29.1"
